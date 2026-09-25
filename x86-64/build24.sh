@@ -59,7 +59,7 @@ PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES kmod-usb-net"
 PACKAGES="$PACKAGES kmod-usb-net-rndis"
 PACKAGES="$PACKAGES kmod-usb-net-cdc-ether"
-PACKAGES="$PACKAGES kmod-usb-net usbutils"
+PACKAGES="$PACKAGES usbutils"
 
 
 # 文件管理器
